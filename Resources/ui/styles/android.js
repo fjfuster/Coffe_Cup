@@ -107,7 +107,7 @@ module.exports = {
 		height: '70dp',
 		bottom: '0dp',
 		backgroundColor: '#59678E',
-		opacity: 0.5
+		opacity: 0.8
 	},
 	view_nombre_lbl_nombre:{
 		height: '30dp',
